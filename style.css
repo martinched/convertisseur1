@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.header{
+    background-color: gold;
+    text-align: center;
+}
+
+.formulaire{
+    display: flex;
+    flex-direction: column;
+   text-align: center;
+}
+
+.euros{
+    margin: 10px;
+}
+
+.francs{
+    margin: 10px;
+}
+
+.reset{
+    text-align: center;
+    padding: 20px;
+}
